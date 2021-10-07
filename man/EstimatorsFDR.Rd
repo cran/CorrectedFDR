@@ -50,14 +50,15 @@ output$CFDR
 output$RFDR
 }
 \references{
-Bickel, D. R. (2016). Correcting false discovery rates for their bias toward false positives. Working paper. Retrieved from \url{http://hdl.handle.net/10393/34277}.
+Bickel, D.R., Rahal, A. (2019). Correcting false discovery rates for their bias toward
+false positives. Communications in Statistics - Simulation and Computation, \url{https://tinyurl.com/kkdc9rk8}.
 
 Bickel, D. R. (2015). Corrigendum to: Simple estimators of false discovery rates given as few as one or two p-values without strong parametric assumptions. Statistical Applications in Genetics and Molecular Biology, 2015, 14, 225.
 
 Bickel, D. R. (2013). Simple estimators of false discovery rates given as few as one or two p-values without strong parametric assumptions. Statistical Applications in Genetics and Molecular Biology, 2013, 12, 529-543.
 }
 \author{
-Code: Abbas Rahal. \cr Documentation: Anna Akpawu, Justin Chitpin and Abbas Rahal. \cr Maintainer: Abbas Rahal <arahal@uOttawa.ca>
+Code: Abbas Rahal. \cr Documentation: Anna Akpawu, Justin Chitpin and Abbas Rahal. \cr Maintainer: Abbas Rahal <Abbas.Rahal13@gmail.com>
 }
 \keyword{CFDR}
 \keyword{False Discovery Rate}

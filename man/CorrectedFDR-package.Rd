@@ -16,12 +16,12 @@ The DESCRIPTION file:
 \tabular{ll}{
 Package: \tab CorrectedFDR\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2018-02-08\cr
+Version: \tab 1.1\cr
+Date: \tab 2021-10-06\cr
 License: \tab GPL-3\cr
 Depends: \tab R(>= 2.14.2)\cr
 Suggests: \tab LFDR.MLE, LFDREmpiricalBayes, ProData\cr
-URL: \tab https://davidbickel.com\cr
+%URL: \tab https://davidbickel.com\cr
 }
 Two functions in \code{CorrectedFDR} package to compute the LFDR estimators. The function \code{EstimatorsFDR} computes the nonlocal false discovery rate (NFDR), the CFDR and the RFDR. The function \code{BlendedLFDR} uses a Benchmark of FDR, and other estimators of LFDR in order to get an estimate of LFDR.
 }
@@ -31,7 +31,8 @@ Two functions in \code{CorrectedFDR} package to compute the LFDR estimators. The
 Maintainer: \packageMaintainer{CorrectedFDR}
 }
 \references{
-Bickel, D. R. (2016). Correcting false discovery rates for their bias toward false positives. Working paper. Retrieved from \url{http://hdl.handle.net/10393/34277}.
+Bickel, D.R., Rahal, A. (2019). Correcting false discovery rates for their bias toward
+false positives. Communications in Statistics - Simulation and Computation, \url{https://tinyurl.com/kkdc9rk8}.
 
 Bickel, D. R. (2015). Corrigendum to: Simple estimators of false discovery rates given as few as one or two p-values without strong parametric assumptions. Statistical Applications in Genetics and Molecular Biology, 2015, 14, 225.
 

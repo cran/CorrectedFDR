@@ -54,7 +54,7 @@ output$Blended
 Bickel, D. R. (2015). Blending Bayesian and frequentist methods according to the precision of prior information with applications to hypothesis testing. Statistical Methods and Applications, 24(4), pp. 523-546.
 }
 \author{
-Code: Abbas Rahal. \cr Documentation: Anna Akpawu, Justin Chitpin and Abbas Rahal. \cr Maintainer: Abbas Rahal <arahal@uOttawa.ca>
+Code: Abbas Rahal. \cr Documentation: Anna Akpawu, Justin Chitpin and Abbas Rahal. \cr Maintainer: Abbas Rahal <Abbas.Rahal13@gmail.com>
 }
 \keyword{BBE1}
 \keyword{Blended}
